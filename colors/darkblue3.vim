@@ -2,8 +2,8 @@
 " vim: tw=0 ts=4 sw=4
 " Vim color file
 " Version: 1.0
-" Maintainer:	lilydjwg <lilydjwg@gmail.com>
-" Last Change:	2009年6月23日
+" Maintainer:    lilydjwg <lilydjwg@gmail.com>
+" Last Change:    2009年6月23日
 
 set background=dark
 hi clear
